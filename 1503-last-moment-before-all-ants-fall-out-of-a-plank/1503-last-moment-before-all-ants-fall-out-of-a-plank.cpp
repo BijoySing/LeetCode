@@ -1,15 +1,20 @@
 class Solution {
 public:
     int getLastMoment(int n, vector<int>& left, vector<int>& right) {
-      
+        // Initialize a variable to keep track of the maximum time
         int time = 0;
 
-     
+        // Iterate through the positions of ants moving to the left
         for (int pos : left) {
-           time = max(time, pos);
+            // Update the maximum time if the current left-moving ant's position is greater
+            // than the previously recorded maximum time
+            time = max(time, pos);
         }
- for (int pos : right) {
-        
+
+        // Iterate through the positions of ants moving to the right
+        for (int pos : right) {
+            // Update the maximum time if the current right-moving ant's position (relative to
+            // the right end of the plank) is greater than the previously recorded maximum time
             time = max(time, n - pos);
         }
 
