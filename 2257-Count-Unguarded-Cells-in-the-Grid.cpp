@@ -34,7 +34,6 @@ public:
                 }
             }
         }
-
         // Count unguarded cells
         int ans = 0;
         for (int i = 0; i < m; i++) {
