@@ -1,25 +1,24 @@
 class Solution {
 public:
     int minimumSize(vector<int>& nums, int maxOperations) {
-        int l = 1, r = *max_element(nums.begin(), nums.end());
-        int ans = r;
+        int l = 1, r = *max_element(nums.begin(), nums.end()), ans = r;
+
         while (l <= r) {
-            int m = (l + r) / 2;
-            int o = 0;
-            for (auto u : nums) {
-                int x = (u-1)/ m;
-                o += x;
-                if (o > maxOperations)
-                    break;
+            int mid = (l + r) / 2, ops = 0;
+
+            for (int n : nums) {
+                ops += (n - 1) / mid;
+                if (ops > maxOperations) break;
             }
 
-            if (o <= maxOperations) {
-                ans = m;
-                r = m - 1;
-
-            } else
-                l = m + 1;
+            if (ops <= maxOperations) {
+                ans = mid;
+                r = mid - 1;
+            } else {
+                l = mid + 1;
+            }
         }
+
         return ans;
     }
 };
