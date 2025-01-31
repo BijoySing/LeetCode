@@ -3,11 +3,9 @@ public:
     int largestIsland(vector<vector<int>>& grid) {
         int n = grid.size();
         vector<vector<int>> dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-        unordered_map<int, int> islandSize; // Map to store island sizes
-        int label = 2; // Start labeling islands from 2
+        unordered_map<int, int> islandSize;
+        int label = 2; 
         int maxSize = 0;
-
-        // Step 1: Label islands and store their sizes
         for (int i = 0; i < n; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (grid[i][j] == 1) {
@@ -28,7 +26,7 @@ public:
                             neighborLabels[grid[x][y]] = islandSize[grid[x][y]];
                         }
                     }
-                    int total = 1; // Changing this 0 to 1
+                    int total = 1;
                     for (auto& [key, val] : neighborLabels) {
                         total += val;
                     }
@@ -46,7 +44,7 @@ private:
         if (i < 0 || i >= n || j < 0 || j >= n || grid[i][j] != 1) {
             return 0;
         }
-        grid[i][j] = label; // Label the cell
+        grid[i][j] = label;
         int size = 1;
         size += dfs(grid, i + 1, j, label);
         size += dfs(grid, i - 1, j, label);
