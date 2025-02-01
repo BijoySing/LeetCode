@@ -1,23 +1,13 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int sz=s.size();
-        int tz=t.size();
-        int j=0,c=0;
-        for(int i=0;i<sz;i++){
-            while(j<tz){
-               // cout<<j<<endl;
-                if(s[i]==t[j]){
-                    c++;
-                    j++;
-                    break;
-                }
-                j++;
-            }
+        int l = 0, r = 0;
+        while (l < s.size() and r<t.size()) {
+            if (s[l] == t[r])
+                l++;
+
+            r++;
         }
-        //cout<<"c=="<<c<<endl;
-        if(c==sz)return true;
-        else return false;
-        
+        return l == s.size();
     }
 };
