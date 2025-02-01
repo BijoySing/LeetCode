@@ -5,7 +5,6 @@ public:
         while (l < s.size() and r<t.size()) {
             if (s[l] == t[r])
                 l++;
-
             r++;
         }
         return l == s.size();
