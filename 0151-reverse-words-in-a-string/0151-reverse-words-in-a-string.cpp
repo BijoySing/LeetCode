@@ -1,23 +1,18 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> v;
-        string word ;
         stringstream ss(s);
-        while(ss>>word){
-            // cout<<word;
+        string word, result;
+        vector<string> v;
+
+        while (ss >> word)
             v.push_back(word);
-        }
-        reverse(begin(v),end(v));
-        word="";
-int n=v.size();
-int i=0;
-        for (auto u : v) {
-            // cout << u << " ";
-            word += u;
-            i++;
-            if(i<n)            word+=' ';
-        }
-        return word;
+            
+        reverse(v.begin(), v.end());
+
+        for (int i = 0; i < v.size(); i++)
+            result += (i ? " " : "") + v[i];
+
+        return result;
     }
 };
