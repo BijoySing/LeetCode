@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/BijoySing/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
