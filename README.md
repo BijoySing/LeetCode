@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,8 +42,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
