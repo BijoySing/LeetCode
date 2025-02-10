@@ -1,19 +1,21 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        int c = 0;
-        while (c < s.size()) {
-            if (isdigit(s[c])) {
-                s.erase(c, 1);
-                
-                if (c > 0) {
-                    s.erase(c-1, 1);
-                    c--;
+        int index = 0;
+
+        while (index < s.size()) {
+            if (isdigit(s[index])) {
+                s.erase(index, 1);
+
+                if (index > 0) {
+                    s.erase(index - 1, 1);
+                    index--;
                 }
             } else {
-                c++;
+                index++;
             }
-        }return s;
+        }
 
+        return s;
     }
 };
