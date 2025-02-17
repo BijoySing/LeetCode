@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
+| [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BijoySing/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/BijoySing/LeetCode/tree/master/3447-clear-digits) |
@@ -50,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
+| [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/BijoySing/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -66,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/BijoySing/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/BijoySing/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -109,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/BijoySing/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BijoySing/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
