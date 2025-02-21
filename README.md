@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/BijoySing/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -143,4 +145,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BijoySing/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
