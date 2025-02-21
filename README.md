@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BijoySing/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
@@ -39,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BijoySing/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -114,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BijoySing/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
