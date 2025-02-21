@@ -1,38 +1,20 @@
-
 class FindElements {
 public:
-    set<int> st;  // Set to store recovered values
+    unordered_set<int> values;
 
-    void bfs(TreeNode* root) {
-        queue<TreeNode*> q;
-        root->val = 0; // Root starts with value 0
-        q.push(root);
-        st.insert(0);
-
-        while (!q.empty()) {
-            TreeNode* f = q.front();
-            q.pop();
-
-            if (f->left) {
-                f->left->val = 2 * f->val + 1;
-                st.insert(f->left->val);
-                q.push(f->left);
-            }
-            if (f->right) {
-                f->right->val = 2 * f->val + 2;
-                st.insert(f->right->val);
-                q.push(f->right);
-            }
-        }
+    void recover(TreeNode* root, int val) {
+        if (!root)
+            return;
+        root->val = val;
+        values.insert(val);
+        recover(root->left, 2 * val + 1);
+        recover(root->right, 2 * val + 2);
     }
 
     FindElements(TreeNode* root) {
-        if (root) {
-            bfs(root);
-        }
+        if (root)
+            recover(root, 0);
     }
 
-    bool find(int target) {
-        return st.count(target);
-    }
+    bool find(int target) { return values.count(target); }
 };
