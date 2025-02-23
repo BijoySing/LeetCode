@@ -44,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/BijoySing/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BijoySing/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -139,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BijoySing/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -153,10 +156,15 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BijoySing/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
