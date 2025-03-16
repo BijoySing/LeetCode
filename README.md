@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/BijoySing/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
@@ -178,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,4 +189,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/BijoySing/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
