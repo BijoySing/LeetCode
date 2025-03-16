@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/BijoySing/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -77,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BijoySing/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -196,4 +198,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BijoySing/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
