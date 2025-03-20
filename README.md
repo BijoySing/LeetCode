@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/BijoySing/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BijoySing/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/BijoySing/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/BijoySing/LeetCode/tree/master/3447-clear-digits) |
@@ -205,4 +207,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/BijoySing/LeetCode/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
