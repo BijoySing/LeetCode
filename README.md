@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BijoySing/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
@@ -85,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/BijoySing/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -147,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BijoySing/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
