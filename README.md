@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BijoySing/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -84,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/BijoySing/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
