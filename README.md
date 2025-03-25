@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/BijoySing/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/BijoySing/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/BijoySing/LeetCode/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
