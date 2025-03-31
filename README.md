@@ -115,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BijoySing/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/BijoySing/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BijoySing/LeetCode/tree/master/0050-powx-n) |
