@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0050-powx-n](https://github.com/BijoySing/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/BijoySing/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -218,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
