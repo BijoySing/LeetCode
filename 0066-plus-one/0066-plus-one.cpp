@@ -1,18 +1,29 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& digits) {
-        int size = digits.size();
-        
-        // Traverse from the last digit backward
-        for (int i = size - 1; i >= 0; --i) {
-            if (digits[i] < 9) {
-                digits[i]++;
-                return digits;
+    vector<int> plusOne(vector<int>& d) {
+        int n = d.size();
+        vector<int> v;
+        int x = -1;
+        for (int i = n - 1; i >= 0; i--) {
+            if (d[i] < 9) {
+                x = i;
+                break;
             }
-            digits[i] = 0;
         }
-        
-        digits.insert(digits.begin(), 1);
-        return digits;
+        if (x == -1) {
+            v.push_back(1);
+            for (int j = 0; j < n; j++) {
+                v.push_back(0);
+            }
+        } else {
+            for (int j = 0; j < x; j++) {
+                v.push_back(d[j]);
+            }
+            v.push_back(d[x] + 1);
+            for (int j = x + 1; j < n; j++) {
+              if(d[j]==9)v.push_back(0);
+            }
+        }
+        return v;
     }
 };
