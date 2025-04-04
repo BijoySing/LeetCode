@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/BijoySing/LeetCode/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BijoySing/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/BijoySing/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -163,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BijoySing/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/BijoySing/LeetCode/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BijoySing/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BijoySing/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/BijoySing/LeetCode/tree/master/3447-clear-digits) |
