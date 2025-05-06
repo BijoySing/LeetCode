@@ -78,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/BijoySing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/BijoySing/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -113,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/BijoySing/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/BijoySing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -138,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/BijoySing/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/BijoySing/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -188,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/BijoySing/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BijoySing/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -238,6 +242,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BijoySing/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,6 +267,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
