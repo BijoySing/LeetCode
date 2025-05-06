@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/BijoySing/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -25,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BijoySing/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/BijoySing/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
@@ -47,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/BijoySing/LeetCode/tree/master/1170-shortest-common-supersequence) |
