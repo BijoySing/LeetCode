@@ -1,19 +1,21 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& v, int t) {
+    vector<int> twoSum(vector<int>& nums, int t) {
         map<int, int> mp;
-        for (int i = 0; i < v.size(); i++) {
-            mp[v[i]] = i;
+        int i = 0;
+        for (auto u : nums) {
+            mp[u] = i++;
         }
-        vector<int> ans;
-        for (int i = 0; i < v.size(); i++) {
-            int x = t - v[i];
-            if (mp.count(x) and mp[x]!=i) {
-                ans.push_back(mp[x]);
-                ans.push_back(i);
+        vector<int>v;
+
+        for (int i = 0; i < nums.size(); i++) {
+            int n = t - nums[i];
+            if (mp[n] and mp[n]!=i) {
+                v.push_back(i);
+                v.push_back(mp[n]);
                 break;
             }
         }
-        return ans;
+        return v;
     }
-};
+    };
