@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/BijoySing/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BijoySing/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/BijoySing/LeetCode/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/BijoySing/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/BijoySing/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -151,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0172-factorial-trailing-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/BijoySing/LeetCode/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/BijoySing/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/BijoySing/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -168,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/BijoySing/LeetCode/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BijoySing/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/BijoySing/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/BijoySing/LeetCode/tree/master/3447-clear-digits) |
