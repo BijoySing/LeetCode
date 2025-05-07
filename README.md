@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/BijoySing/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/BijoySing/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/BijoySing/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/BijoySing/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/BijoySing/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BijoySing/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/BijoySing/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/BijoySing/LeetCode/tree/master/0066-plus-one) |
@@ -114,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/BijoySing/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/BijoySing/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/BijoySing/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BijoySing/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
@@ -195,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BijoySing/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/BijoySing/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BijoySing/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/BijoySing/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
