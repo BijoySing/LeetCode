@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0172-factorial-trailing-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/BijoySing/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/BijoySing/LeetCode/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BijoySing/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/BijoySing/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -299,6 +300,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/BijoySing/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
