@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/BijoySing/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BijoySing/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/BijoySing/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/BijoySing/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -83,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/BijoySing/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/BijoySing/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/BijoySing/LeetCode/tree/master/0289-game-of-life) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BijoySing/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/BijoySing/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
