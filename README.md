@@ -318,6 +318,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BijoySing/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/BijoySing/LeetCode/tree/master/0050-powx-n) |
 ## Union Find
 |  |
@@ -343,5 +344,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BijoySing/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/BijoySing/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
