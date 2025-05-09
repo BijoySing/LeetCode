@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/BijoySing/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BijoySing/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BijoySing/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
@@ -163,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/BijoySing/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/BijoySing/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BijoySing/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/BijoySing/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BijoySing/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
@@ -359,4 +361,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/BijoySing/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/BijoySing/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BijoySing/LeetCode/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BijoySing/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
