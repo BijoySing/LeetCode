@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BijoySing/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/BijoySing/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BijoySing/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BijoySing/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -164,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/BijoySing/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BijoySing/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/BijoySing/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/BijoySing/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/BijoySing/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
@@ -337,6 +339,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/BijoySing/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
 ## Quickselect
 |  |
