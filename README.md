@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BijoySing/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/BijoySing/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/BijoySing/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/BijoySing/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/BijoySing/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BijoySing/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BijoySing/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -324,6 +325,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BijoySing/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/BijoySing/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/BijoySing/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/BijoySing/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/BijoySing/LeetCode/tree/master/0268-missing-number) |
